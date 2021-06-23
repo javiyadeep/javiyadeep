@@ -32,5 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiyadeep&show_icons=true&locale=en" alt="javiyadeep" /></p>
 
 
+<a href="https://github.com/iampawan">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiyadeep&theme=light&hide_langs_below=1" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiyadeep&show_icons=true&locale=en&layout=compact" alt="javiyadeep" /></p>
+
