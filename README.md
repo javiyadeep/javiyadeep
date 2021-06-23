@@ -1,6 +1,6 @@
 <span align="center">[![MasterHead](https://www.touchmediaads.com/myimg/b1.3.gif)](https://github.com/javiyadeep)
 </span>
-<h1 align="center">Hi 👋, I'm Deep Javiya</h1>
+<h1 align="center">Hey 👋, I'm Deep Javiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javiyadeep&label=Profile%20views&color=0e75b6&style=flat" alt="javiyadeep" /> </p>
 
