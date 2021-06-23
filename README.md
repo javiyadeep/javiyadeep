@@ -8,7 +8,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/aleispatel" target="blank"><img src="https://img.shields.io/twitter/follow/aleispatel?logo=twitter&style=for-the-badge" alt="aleispatel" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.touchmediaads.com/myimg/b1.3.gif">
+<img align="right" alt="Coding" width="500" src="https://www.touchmediaads.com/myimg/b1.3.gif">
 
 - 🔭 I’m currently working on [JD Nuemorphisum](https://javiyadeep.github.io/Neumorphism-Dashboard)
 
