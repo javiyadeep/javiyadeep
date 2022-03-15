@@ -51,10 +51,6 @@ HTML, CSS, SCSS, Bootstrap, Javascript, Jquery, Angular, Git, Bitbucket, Photosh
 <br>
 
 
-
-
-
-
 ## 📊 My Github Stats
 
   <br/>
@@ -67,7 +63,6 @@ HTML, CSS, SCSS, Bootstrap, Javascript, Jquery, Angular, Git, Bitbucket, Photosh
  </p>
     
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
