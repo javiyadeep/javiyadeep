@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Wrappixel**
 
-- 👨‍💻 All of my projects are available at **[https://javiyadeep.github.io/Neumorphism-Dashboard](https://javiyadeep.github.io/Neumorphism-Dashboard)**
+- 👨‍💻 All of my projects are available at **[https://github.com/javiyadeep](https://github.com/javiyadeep)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
