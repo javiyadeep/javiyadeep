@@ -1,7 +1,7 @@
 <!-- <span align="center">[![MasterHead](https://www.touchmediaads.com/myimg/b1.3.gif)](https://github.com/javiyadeep)
 </span> -->
 
-![Deep Javiya](https://raw.githubusercontent.com/javiyadeep/images/main/deep-banner-dark.png?token=GHSAT0AAAAAABSNWPJSRKGCKS2EBQEZC7U6YRQ6HFA)
+![Deep Javiya](https://i.postimg.cc/nccpZwDL/deep-banner-dark.png)
 
 <h1 align="center">Hey 👋, I'm Deep Javiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -25,9 +25,9 @@
 
 ## ❤ Connect with me:
 <p align="left">
-<a href="https://twitter.com/aleispatel" target="blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleispatel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deep javiya" target="blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep javiya" height="30" width="40" /></a>
-<a href="https://instagram.com/patel_aleis" target="blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patel_aleis" height="30" width="40" /></a>
+<a href="https://twitter.com/javiyadeep_0210" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleispatel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deep-javiya-a036121b9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep javiya" height="30" width="40" /></a>
+<a href="https://instagram.com/patel_aleis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patel_aleis" height="30" width="40" /></a>
 </p>
 
 
