@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Wrappixel**
+- 🔭 I’m currently working on **Ethenex Technologies**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/javiyadeep](https://github.com/javiyadeep)**
 
