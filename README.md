@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Ethenex Technologies**
+- 🔭 Founder & CEO **Ethenex Technologies Private Limited**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/javiyadeep](https://github.com/javiyadeep)**
 
