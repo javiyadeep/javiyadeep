@@ -14,8 +14,6 @@
 
 - 🔭 Founder & CEO **Ethenex Technologies Private Limited**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/javiyadeep](https://github.com/javiyadeep)**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **patelaleis@gmail.com**
