@@ -66,7 +66,6 @@ HTML, CSS, SCSS, Bootstrap, Javascript, Jquery, Angular, Git, Bitbucket, Photosh
 <br/>
 <br/>
 
-<a href="https://github.com/javiyadeep/"><img alt="Deep Javiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=javiyadeep&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=javiyadeep&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/javiyadeep)
 <br/>
 <br/>
