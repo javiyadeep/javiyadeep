@@ -1,7 +1,7 @@
 <!-- <span align="center">[![MasterHead](https://www.touchmediaads.com/myimg/b1.3.gif)](https://github.com/javiyadeep)
 </span> -->
 
-![Deep Javiya](https://i.postimg.cc/nccpZwDL/deep-banner-dark.png)
+![Deep Javiya](https://i.postimg.cc/dtB8y7Z3/banner.png)
 
 <h1 align="center">Hey 👋, I'm Deep Javiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
