@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ <span style="color: #A196E3;">About Me</span>
 
 - 🔭 Founder & CEO **Ethenex Technologies Private Limited**
 
