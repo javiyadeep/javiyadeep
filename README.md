@@ -66,6 +66,6 @@ HTML, CSS, SCSS, Bootstrap, Javascript, Jquery, Angular, Git, Bitbucket, Photosh
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=javiyadeep&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/javiyadeep)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javiyadeep&bg_color=0c111d&color=a195e4&line=d9d6ec&point=a195e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
