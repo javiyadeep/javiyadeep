@@ -1,71 +1,118 @@
-<!-- <span align="center">[![MasterHead](https://www.touchmediaads.com/myimg/b1.3.gif)](https://github.com/javiyadeep)
-</span> -->
-
 ![Deep Javiya](https://i.postimg.cc/dtB8y7Z3/banner.png)
 
-<h1 align="center">Hey 👋, I'm Deep Javiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=javiyadeep&label=Profile%20views&color=0e75b6&style=flat" alt="javiyadeep" /> </p>
-
-<br>
-<br>
-
-## 🙋‍♂️ <span style="color: #A196E3;">About Me</span>
-
-- 🔭 Founder & CEO **Ethenex Technologies Private Limited**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **patelaleis@gmail.com**
-
-<br>
-<br>
-
-## ❤ Connect with me:
-<p align="left">
-<a href="https://twitter.com/javiyadeep_0210" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleispatel" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deep-javiya-a036121b9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep javiya" height="30" width="40" /></a>
-<a href="https://instagram.com/patel_aleis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patel_aleis" height="30" width="40" /></a>
-</p>
-
-
-<br>
-<br>
-
-
-## 🛠 Skills
-HTML, CSS, SCSS, Bootstrap, Javascript, Jquery, Angular, Git, Bitbucket, Photoshop, Figma, XD
-
-<br>
-
+<h1 align="center">Deep Javiya</h1>
 
 <p align="center">
-    <a href="https://github.com/javiyadeep/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deep Javiya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javiyadeep&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+I design & build modern web experiences<br/>
+with motion, clarity, and purpose.
 </p>
 
-<br>
-<br>
+<p align="center">
+Frontend Developer • Web Animation Specialist • UI Engineer
+</p>
 
+<p align="center">
+  <a href="https://deepjaviya.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/A395E9" width="22" />
+  </a>&nbsp;&nbsp;
 
-## 📊 My Github Stats
+  <a href="mailto:patelaleis@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/A395E9" width="22" />
+  </a>&nbsp;&nbsp;
 
-  <br/>
-  <p align="center">
-   <a href="https://github.com/javiyadeep/github-readme-stats"><img alt="Deep Javiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiyadeep&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-  
-  <p align="center">
-   <a href="https://github.com/javiyadeep/github-readme-stats"><img alt="Deep Javiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=javiyadeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </p>
-    
-  <br/>
+  <a href="https://www.linkedin.com/in/javiya-deep/" target="_blank">
+    <img src="https://i.postimg.cc/QCQv1MLW/linkedin-box-fill.jpg" width="26" />
+  </a>&nbsp;&nbsp;
 
+  <a href="https://x.com/DeepJaviya_" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/A395E9" width="22" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://t.me/deep_javiya" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/A395E9" width="22" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://wa.me/8141316149" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/A395E9" width="22" />
+  </a>
+</p>
 
 <br/>
+
+## ✨ Who I Am
+
+I’m a frontend developer who cares deeply about **how things feel**, not just how they look.  
+My work sits at the intersection of **design, motion, and clean code**.
+
+I enjoy building interfaces that are:
+- smooth, not noisy  
+- expressive, not overdone  
+- simple on the surface, thoughtful underneath  
+
+I also run **Ethenex Technologies Pvt. Ltd.**, where I help brands turn ideas into polished digital products.
+
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javiyadeep&bg_color=0c111d&color=a195e4&line=d9d6ec&point=a195e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🧠 What I Focus On
+
+- Interactive UI development  
+- Web animations & micro-interactions  
+- Scalable frontend systems  
+- Design-to-code accuracy  
+- Performance-friendly motion  
+
+If it moves, responds, or reacts on the screen, that’s my space.
+
 <br/>
+
+## 🧩 Tech I Work With
+
+**Frontend**  
+HTML · CSS · SASS · Tailwind CSS · Bootstrap  
+JavaScript · jQuery · GSAP · Framer Motion  
+WIX Studio
+
+**Design & Motion**  
+Figma · Photoshop · Illustrator · Premiere Pro
+
+**Workflow**  
+Git · GitHub
+
+I choose tools based on **clarity and control**, not hype.
+
 <br/>
+
+## 🛠 What I Build
+
+- Animated marketing websites  
+- 3D & motion-driven landing pages  
+- Membership & community platforms  
+- E-commerce interfaces  
+- Custom tools & interactive apps  
+- UI systems & visual design  
+
+Every project starts with intent and ends with polish.
+
+<br/>
+
+## 🌍 Selected Work
+
+Some projects I’ve worked on:
+- **R Vision International** – clean branding with smooth motion  
+- **Clamp CSS** – developer-focused utility tool  
+- **Horimaxx Hospital** – scalable system with refined UI  
+
+More detailed case studies live here:  
+👉 **https://deepjaviya.com**
+
+<br/>
+
+## 🤝 Let’s Connect
+
+<p align="center">
+<strong>deepjaviya.com</strong>
+</p>
+
+<p align="center">
+Design. Motion. Code.
+</p>
