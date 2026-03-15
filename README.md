@@ -1,4 +1,4 @@
-![Deep Javiya]([https://i.postimg.cc/dtB8y7Z3/banner.png](https://i.postimg.cc/GpvZ6NX5/banner.png))
+![Deep Javiya](https://i.postimg.cc/GpvZ6NX5/banner.png)
 
 <h1 align="center">Deep Javiya</h1>
 
